@@ -24,12 +24,13 @@
                                 <rect key="frame" x="67" y="132" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Vika Calc" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rRv-OU-x0y">
-                                <rect key="frame" x="84" y="310" width="206" height="47"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Vika AND Angela Calc" textAlignment="center" lineBreakMode="headTruncation" numberOfLines="21" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rRv-OU-x0y">
+                                <rect key="frame" x="50" y="289" width="274" height="70"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="tintColor" red="0.93725490196078431" green="0.28235294117647058" blue="0.13725490196078433" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="48"/>
-                                <color key="textColor" red="0.93725490196078431" green="0.28235294117647058" blue="0.13725490196078433" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.33434564557441365" green="0.70776112485177745" blue="0.37565336618684048" alpha="0.59999999999999998" colorSpace="custom" customColorSpace="displayP3"/>
+                                <color key="tintColor" red="0.29542803313388638" green="0.54890329022203099" blue="0.57493607039304129" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" name="Noteworthy-Light" family="Noteworthy" pointSize="27"/>
+                                <color key="textColor" red="0.13349592492256035" green="0.32718049012712219" blue="0.37707016148518047" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
